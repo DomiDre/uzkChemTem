@@ -1,0 +1,7 @@
+# FortMag
+A collection of Fortran functions to describe magnetometry functions. Written in Fortran 90 and easily implementable in Python
+
+Requires gfortran, only tested with Python >=3.6
+
+# Install from source
+python setup.py install
