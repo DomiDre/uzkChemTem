@@ -1,1 +1,5 @@
 include LICENSE
+include uzkChemTem/bf.sh
+include uzkChemTem/bioformats_package.jar
+include uzkChemTem/config.sh
+include uzkChemTem/showinf
